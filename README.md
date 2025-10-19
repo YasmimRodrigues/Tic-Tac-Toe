@@ -74,4 +74,4 @@ JavaScript (ES6) – for game logic and DOM manipulation
 Yasmim Rodrigues
 Front-End Developer in training | Passionate about creating web experiences
 
-📫 [LinkedIn](www.linkedin.com/in/yasmim-rodrigues-687608242)
+📫 [LinkedIn](https://www.linkedin.com/in/yasmim-rodrigues/)
