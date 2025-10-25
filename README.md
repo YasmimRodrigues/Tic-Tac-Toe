@@ -21,7 +21,7 @@ You can open the game by simply running the `index.html` file in your browser.
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/YasmimRodrigues/tic-tac-toe.git
 
 # Navigate to the project folder
 cd tic-tac-toe
